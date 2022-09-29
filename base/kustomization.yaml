@@ -1,0 +1,4 @@
+kind: Kustomization
+
+resources:
+  - oap-sample.yaml
