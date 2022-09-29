@@ -1,0 +1,8 @@
+apiVersion: example.com/v1
+kind: OnlyAdditionalProperties
+metadata:
+  name: default-oap
+spec:
+  Test OAP With Kustomize:
+    value: I am not working right now via kustomize.some one has to fix me
+
